@@ -1,0 +1,99 @@
+{
+  "total_vns": 58868,
+  "votecount_distribution": [
+    {
+      "range": "10,000+",
+      "min": 10000,
+      "max": 999999,
+      "count": 15
+    },
+    {
+      "range": "5,000-10,000",
+      "min": 5000,
+      "max": 10000,
+      "count": 32
+    },
+    {
+      "range": "2,000-5,000",
+      "min": 2000,
+      "max": 5000,
+      "count": 105
+    },
+    {
+      "range": "1,000-2,000",
+      "min": 1000,
+      "max": 2000,
+      "count": 157
+    },
+    {
+      "range": "500-1,000",
+      "min": 500,
+      "max": 1000,
+      "count": 349
+    },
+    {
+      "range": "250-500",
+      "min": 250,
+      "max": 500,
+      "count": 567
+    },
+    {
+      "range": "100-250",
+      "min": 100,
+      "max": 250,
+      "count": 1528
+    },
+    {
+      "range": "50-100",
+      "min": 50,
+      "max": 100,
+      "count": 2205
+    },
+    {
+      "range": "25-50",
+      "min": 25,
+      "max": 50,
+      "count": 3266
+    },
+    {
+      "range": "10-25",
+      "min": 10,
+      "max": 25,
+      "count": 5591
+    },
+    {
+      "range": "5-10",
+      "min": 5,
+      "max": 10,
+      "count": 4688
+    },
+    {
+      "range": "1-5",
+      "min": 1,
+      "max": 5,
+      "count": 10275
+    },
+    {
+      "range": "0-1",
+      "min": 0,
+      "max": 1,
+      "count": 7612
+    }
+  ],
+  "commercial_counts": [
+    {
+      "filter": "All Japanese VNs",
+      "count": 34470
+    },
+    {
+      "filter": "Japanese + Some engagement",
+      "count": 10380
+    }
+  ],
+  "top_500_stats": {
+    "max_votes": 21091,
+    "median_votes": 1238.5,
+    "mean_votes": 2231.92,
+    "min_votes": 644
+  }
+}

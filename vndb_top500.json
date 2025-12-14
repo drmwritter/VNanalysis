@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "v97",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 100,
+    "rating": 79.2,
+    "title": "Saya no Uta",
+    "votecount": 21091
+  },
+  {
+    "id": "v11",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 100,
+    "rating": 86.2,
+    "title": "Fate/stay night",
+    "votecount": 17866
+  },
+  {
+    "id": "v945",
+    "length": 3,
+    "olang": "en",
+    "popularity": 100,
+    "rating": 78.8,
+    "title": "Katawa Shoujo",
+    "votecount": 17463
+  },
+  {
+    "id": "v21905",
+    "length": 2,
+    "olang": "en",
+    "popularity": 100,
+    "rating": 69.3,
+    "title": "Doki Doki Literature Club!",
+    "votecount": 16571
+  },
+  {
+    "id": "v2002",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 100,
+    "rating": 90.2,
+    "title": "STEINS;GATE",
+    "votecount": 15318
+  },
+  {
+    "id": "v7014",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 94.6466666666667,
+    "rating": 76.3,
+    "title": "Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+    "votecount": 14197
+  },
+  {
+    "id": "v24",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 83.1666666666667,
+    "rating": 88.7,
+    "title": "Umineko no Naku Koro ni",
+    "votecount": 12475
+  },
+  {
+    "id": "v5154",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 82.48,
+    "rating": 83.6,
+    "title": "Grisaia no Kajitsu -LE FRUIT DE LA GRISAIA-",
+    "votecount": 12372
+  },
+  {
+    "id": "v211",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 78.48,
+    "rating": 82.4,
+    "title": "G-senjou no Maou",
+    "votecount": 11772
+  },
+  {
+    "id": "v7679",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 78.42,
+    "rating": 81,
+    "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
+    "votecount": 11763
+  },
+  {
+    "id": "v93",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 71.5666666666667,
+    "rating": 70.5,
+    "title": "Muv-Luv",
+    "votecount": 10735
+  },
+  {
+    "id": "v4",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 70.9,
+    "rating": 87,
+    "title": "CLANNAD",
+    "votecount": 10635
+  },
+  {
+    "id": "v92",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 70.62,
+    "rating": 90,
+    "title": "Muv-Luv Alternative",
+    "votecount": 10593
+  },
+  {
+    "id": "v7",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 70.24,
+    "rating": 81.8,
+    "title": "Tsukihime",
+    "votecount": 10536
+  },
+  {
+    "id": "v3144",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 67.42,
+    "rating": 87,
+    "title": "Subarashiki Hibi ~Furenzoku Sonzai~",
+    "votecount": 10113
+  },
+  {
+    "id": "v2153",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 66,
+    "rating": 89.9,
+    "title": "Umineko no Naku Koro ni Chiru",
+    "votecount": 9900
+  },
+  {
+    "id": "v67",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 65.94,
+    "rating": 86,
+    "title": "Higurashi no Naku Koro ni",
+    "votecount": 9891
+  },
+  {
+    "id": "v1143",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 59.4533333333333,
+    "rating": 83.4,
+    "title": "Maji de Watashi ni Koi Shinasai!",
+    "votecount": 8918
+  },
+  {
+    "id": "v5",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 58.1466666666667,
+    "rating": 86.3,
+    "title": "Little Busters!",
+    "votecount": 8722
+  },
+  {
+    "id": "v711",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 57.72,
+    "rating": 80.7,
+    "title": "Gyakuten Saiban",
+    "votecount": 8658
+  },
+  {
+    "id": "v3112",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 56.12,
+    "rating": 82.8,
+    "title": "Kyokugen Dasshutsu - 9-Jikan 9-Nin 9 no Tobira",
+    "votecount": 8418
+  },
+  {
+    "id": "v17",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 55.6733333333333,
+    "rating": 84.5,
+    "title": "Ever17 -the out of infinity-",
+    "votecount": 8351
+  },
+  {
+    "id": "v34",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 54.18,
+    "rating": 78.6,
+    "title": "planetarian ~Chiisana Hoshi no Yume~",
+    "votecount": 8127
+  },
+  {
+    "id": "v751",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 53.4333333333333,
+    "rating": 85.3,
+    "title": "Rewrite",
+    "votecount": 8015
+  },
+  {
+    "id": "v18334",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 52.22,
+    "rating": 77,
+    "title": "New Dangan Ronpa V3 Minna no Koroshiai Shingakki",
+    "votecount": 7833
+  },
+  {
+    "id": "v15538",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 50.9933333333333,
+    "rating": 67.1,
+    "title": "Neko Para Vol.1 Soleil Kaiten Shimashita!",
+    "votecount": 7649
+  },
+  {
+    "id": "v810",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 47.7266666666667,
+    "rating": 80.3,
+    "title": "Kara no Shoujo",
+    "votecount": 7159
+  },
+  {
+    "id": "v68",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 47.1533333333333,
+    "rating": 88.2,
+    "title": "Higurashi no Naku Koro ni Kai",
+    "votecount": 7073
+  },
+  {
+    "id": "v17102",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 46.4266666666667,
+    "rating": 80.7,
+    "title": "STEINS;GATE 0",
+    "votecount": 6964
+  },
+  {
+    "id": "v7738",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 45.4133333333333,
+    "rating": 80,
+    "title": "Kimi to Kanojo to Kanojo no Koi.",
+    "votecount": 6812
+  },
+  {
+    "id": "v57",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 44.5933333333333,
+    "rating": 81.5,
+    "title": "Sharin no Kuni, Himawari no Shoujo",
+    "votecount": 6689
+  },
+  {
+    "id": "v12402",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 44.0066666666667,
+    "rating": 88,
+    "title": "Fata Morgana no Yakata",
+    "votecount": 6601
+  },
+  {
+    "id": "v715",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 43.36,
+    "rating": 75.9,
+    "title": "Gyakuten Saiban 2",
+    "votecount": 6504
+  },
+  {
+    "id": "v10",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 43.1066666666667,
+    "rating": 75,
+    "title": "narcissu",
+    "votecount": 6466
+  },
+  {
+    "id": "v382",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 41.6933333333333,
+    "rating": 74,
+    "title": "CHAOS;HEAD",
+    "votecount": 6254
+  },
+  {
+    "id": "v9093",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 40.5,
+    "rating": 76.8,
+    "title": "Kono Oozora ni, Tsubasa o Hirogete",
+    "votecount": 6075
+  },
+  {
+    "id": "v12849",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 40.4733333333333,
+    "rating": 82.8,
+    "title": "Ao no Kanata no Four Rhythm",
+    "votecount": 6071
+  },
+  {
+    "id": "v716",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 40.2133333333333,
+    "rating": 85.6,
+    "title": "Gyakuten Saiban 3",
+    "votecount": 6032
+  },
+  {
+    "id": "v44",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 40.04,
+    "rating": 73.6,
+    "title": "Yume Miru Kusuri",
+    "votecount": 6006
+  },
+  {
+    "id": "v3",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 38.2133333333333,
+    "rating": 78.3,
+    "title": "Utawarerumono",
+    "votecount": 5732
+  },
+  {
+    "id": "v487",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 37.56,
+    "rating": 83.5,
+    "title": "Sengoku Rance",
+    "votecount": 5634
+  },
+  {
+    "id": "v1474",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 37.3066666666667,
+    "rating": 77.9,
+    "title": "Hoshizora no Memoria -Wish Upon a Shooting Star-",
+    "votecount": 5596
+  },
+  {
+    "id": "v7809",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 37.2733333333333,
+    "rating": 82.1,
+    "title": "Kyokugen Dasshutsu ADV - Zennin Shibou Desu",
+    "votecount": 5591
+  },
+  {
+    "id": "v6540",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 36.0866666666667,
+    "rating": 72.6,
+    "title": "euphoria",
+    "votecount": 5413
+  },
+  {
+    "id": "v16044",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 36.0333333333333,
+    "rating": 78.4,
+    "title": "Sanoba Witch",
+    "votecount": 5405
+  },
+  {
+    "id": "v50",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 35.72,
+    "rating": 81.3,
+    "title": "Fate/hollow ataraxia",
+    "votecount": 5358
+  },
+  {
+    "id": "v5652",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 33.9733333333333,
+    "rating": 81.2,
+    "title": "Kamidori Alchemy Meister",
+    "votecount": 5096
+  },
+  {
+    "id": "v2016",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 32.66,
+    "rating": 89.7,
+    "title": "Soukou Akki Muramasa",
+    "votecount": 4899
+  },
+  {
+    "id": "v19073",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 32.3066666666667,
+    "rating": 76.7,
+    "title": "Senren * Banka",
+    "votecount": 4846
+  },
+  {
+    "id": "v6245",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 32.2133333333333,
+    "rating": 82,
+    "title": "Maji de Watashi ni Koishinasai! S",
+    "votecount": 4832
+  },
+  {
+    "id": "v18872",
+    "length": 3,
+    "olang": "en",
+    "popularity": 31.1266666666667,
+    "rating": 79.8,
+    "title": "VA-11 HALL-A",
+    "votecount": 4669
+  },
+  {
+    "id": "v66",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 30.8133333333333,
+    "rating": 78.6,
+    "title": "CROSS\u2020CHANNEL",
+    "votecount": 4622
+  },
+  {
+    "id": "v14018",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 30.8066666666667,
+    "rating": 83.5,
+    "title": "CHAOS;CHILD",
+    "votecount": 4621
+  },
+  {
+    "id": "v18713",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 30.6133333333333,
+    "rating": 70.4,
+    "title": "Neko Para Vol.2 Shimai Neko no Sucre",
+    "votecount": 4592
+  },
+  {
+    "id": "v7723",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 30.5666666666667,
+    "rating": 80.5,
+    "title": "Grisaia no Meikyuu -LE LABYRINTHE DE LA GRISAIA-",
+    "votecount": 4585
+  },
+  {
+    "id": "v19829",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 29.8933333333333,
+    "rating": 71.1,
+    "title": "9-nine- Kokonotsu Kokonoka Kokonoiro",
+    "votecount": 4484
+  },
+  {
+    "id": "v14",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 29.16,
+    "rating": 65.7,
+    "title": "School Days",
+    "votecount": 4374
+  },
+  {
+    "id": "v20424",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 28.5133333333333,
+    "rating": 84.7,
+    "title": "Summer Pockets",
+    "votecount": 4277
+  },
+  {
+    "id": "v17763",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 28.42,
+    "rating": 62.9,
+    "title": "Neko Para Vol.0 Minazuki Neko-tachi no Nichijou!",
+    "votecount": 4263
+  },
+  {
+    "id": "v777",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 28.22,
+    "rating": 86.3,
+    "title": "Mahoutsukai no Yoru",
+    "votecount": 4233
+  },
+  {
+    "id": "v22230",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 27.3666666666667,
+    "rating": 75.6,
+    "title": "RIDDLE JOKER",
+    "votecount": 4105
+  },
+  {
+    "id": "v5657",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 27.1,
+    "rating": 76.2,
+    "title": "Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~",
+    "votecount": 4065
+  },
+  {
+    "id": "v33",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 26.8066666666667,
+    "rating": 77,
+    "title": "Kanon",
+    "votecount": 4021
+  },
+  {
+    "id": "v28",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 26.46,
+    "rating": 67.4,
+    "title": "SHUFFLE!",
+    "votecount": 3969
+  },
+  {
+    "id": "v21668",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 26.1133333333333,
+    "rating": 78.7,
+    "title": "9-nine- Sorairo Sorauta Soranooto",
+    "votecount": 3917
+  },
+  {
+    "id": "v717",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 26,
+    "rating": 74.2,
+    "title": "Gyakuten Saiban 4",
+    "votecount": 3900
+  },
+  {
+    "id": "v7771",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 25.4866666666667,
+    "rating": 90.1,
+    "title": "WHITE ALBUM2",
+    "votecount": 3823
+  },
+  {
+    "id": "v8213",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 25.34,
+    "rating": 76.8,
+    "title": "DRACU-RIOT!",
+    "votecount": 3801
+  },
+  {
+    "id": "v21552",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 25.1333333333333,
+    "rating": 77.6,
+    "title": "Making * Lovers",
+    "votecount": 3770
+  },
+  {
+    "id": "v26532",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 24.9,
+    "rating": 78.7,
+    "title": "AI: Somnium Files",
+    "votecount": 3735
+  },
+  {
+    "id": "v7724",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 24.5866666666667,
+    "rating": 80.6,
+    "title": "Grisaia no Rakuen -LE EDEN DE LA GRISAIA-",
+    "votecount": 3688
+  },
+  {
+    "id": "v3126",
+    "length": 3,
+    "olang": "ru",
+    "popularity": 24.08,
+    "rating": 67.6,
+    "title": "Beskonechnoe leto",
+    "votecount": 3612
+  },
+  {
+    "id": "v812",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 23.9933333333333,
+    "rating": 68.1,
+    "title": "Wanko to Kurasou",
+    "votecount": 3599
+  },
+  {
+    "id": "v2622",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 23.4133333333333,
+    "rating": 70.3,
+    "title": "Osananajimi wa Daitouryou: My girlfriend is the PRESIDENT.",
+    "votecount": 3512
+  },
+  {
+    "id": "v21852",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 23.4,
+    "rating": 81.7,
+    "title": "Kin'iro Loveriche",
+    "votecount": 3510
+  },
+  {
+    "id": "v6710",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 23.3933333333333,
+    "rating": 73.4,
+    "title": "Princess Evangile",
+    "votecount": 3509
+  },
+  {
+    "id": "v1286",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 23.28,
+    "rating": 75.9,
+    "title": "eden* They were only two, on the planet.",
+    "votecount": 3492
+  },
+  {
+    "id": "v548",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 23.1866666666667,
+    "rating": 81.2,
+    "title": "Dies irae ~Acta est Fabula~",
+    "votecount": 3478
+  },
+  {
+    "id": "v4806",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 23.0466666666667,
+    "rating": 72.6,
+    "title": "Noble \u2606 Works",
+    "votecount": 3457
+  },
+  {
+    "id": "v914",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 22.8466666666667,
+    "rating": 76.2,
+    "title": "SWAN SONG",
+    "votecount": 3427
+  },
+  {
+    "id": "v7853",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 22.3266666666667,
+    "rating": 80.1,
+    "title": "Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~",
+    "votecount": 3349
+  },
+  {
+    "id": "v23740",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 22.1733333333333,
+    "rating": 78.3,
+    "title": "9-nine- Haruiro Harukoi Harunokaze",
+    "votecount": 3326
+  },
+  {
+    "id": "v5922",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 21.9466666666667,
+    "rating": 85,
+    "title": "Kara no Shoujo - The Second Episode",
+    "votecount": 3292
+  },
+  {
+    "id": "v2632",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 21.9066666666667,
+    "rating": 74.9,
+    "title": "Corpse Party: Blood Covered",
+    "votecount": 3286
+  },
+  {
+    "id": "v19385",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 21.88,
+    "rating": 72.3,
+    "title": "Neko Para Vol.3 Neko-tachi no Aromatize",
+    "votecount": 3282
+  },
+  {
+    "id": "v47",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 21.8666666666667,
+    "rating": 73.5,
+    "title": "Kagetsu Tooya",
+    "votecount": 3280
+  },
+  {
+    "id": "v16640",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 21.7933333333333,
+    "rating": 76.9,
+    "title": "Evenicle",
+    "votecount": 3269
+  },
+  {
+    "id": "v21289",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 21.6533333333333,
+    "rating": 79.6,
+    "title": "Rei-Jin-G-Lu-P",
+    "votecount": 3248
+  },
+  {
+    "id": "v22505",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 21.5533333333333,
+    "rating": 78.5,
+    "title": "CHAOS;HEAD NOAH",
+    "votecount": 3233
+  },
+  {
+    "id": "v26523",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 21.4333333333333,
+    "rating": 85.6,
+    "title": "9-nine- Yukiiro Yukihana Yukinoato",
+    "votecount": 3215
+  },
+  {
+    "id": "v16208",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 21.3266666666667,
+    "rating": 73.1,
+    "title": "Chrono Clock",
+    "votecount": 3199
+  },
+  {
+    "id": "v27448",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 21.16,
+    "rating": 77.9,
+    "title": "ATRI -My Dear Moments-",
+    "votecount": 3174
+  },
+  {
+    "id": "v414",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 20.3066666666667,
+    "rating": 75.7,
+    "title": "KIRA\u2606KIRA",
+    "votecount": 3046
+  },
+  {
+    "id": "v13",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 20.2866666666667,
+    "rating": 82.2,
+    "title": "Remember11 -the age of infinity-",
+    "votecount": 3043
+  },
+  {
+    "id": "v11856",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 20.1266666666667,
+    "rating": 76.1,
+    "title": "Fureraba ~Friend to Lover~",
+    "votecount": 3019
+  },
+  {
+    "id": "v4028",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 20.04,
+    "rating": 73.3,
+    "title": "Koi to Senkyo to Chocolate",
+    "votecount": 3006
+  },
+  {
+    "id": "v26414",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 19.9933333333333,
+    "rating": 75.2,
+    "title": "Caf\u00e9 Stella to Shinigami no Chou",
+    "votecount": 2999
+  },
+  {
+    "id": "v515",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 19.7733333333333,
+    "rating": 72.5,
+    "title": "Cartagra ~Tsuki Kurui no Yamai~",
+    "votecount": 2966
+  },
+  {
+    "id": "v1306",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 19.6,
+    "rating": 81.3,
+    "title": "BALDR SKY Dive1 \"Lost Memory\"",
+    "votecount": 2940
+  },
+  {
+    "id": "v7721",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 19.3533333333333,
+    "rating": 83.2,
+    "title": "Utawarerumono: Itsuwari no Kamen",
+    "votecount": 2903
+  },
+  {
+    "id": "v33493",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 18.6533333333333,
+    "rating": 71.5,
+    "title": "NEEDY GIRL OVERDOSE",
+    "votecount": 2798
+  },
+  {
+    "id": "v12",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 18.5533333333333,
+    "rating": 74.4,
+    "title": "Tomoyo After ~It's a Wonderful Life~",
+    "votecount": 2783
+  },
+  {
+    "id": "v3770",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 18.2466666666667,
+    "rating": 84.8,
+    "title": "Aiyoku no Eustia",
+    "votecount": 2737
+  },
+  {
+    "id": "v11849",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 18.2466666666667,
+    "rating": 82.2,
+    "title": "Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~",
+    "votecount": 2737
+  },
+  {
+    "id": "v88",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 18.2,
+    "rating": 80.6,
+    "title": "ef - a fairy tale of the two.",
+    "votecount": 2730
+  },
+  {
+    "id": "v18717",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 18.1466666666667,
+    "rating": 89.4,
+    "title": "Utawarerumono: Futari no Hakuoro",
+    "votecount": 2722
+  },
+  {
+    "id": "v17823",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 18.0533333333333,
+    "rating": 72.4,
+    "title": "Wagamama High Spec",
+    "votecount": 2708
+  },
+  {
+    "id": "v14022",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 17.9466666666667,
+    "rating": 70.9,
+    "title": "Rance 01 - Hikari o Motomete -",
+    "votecount": 2692
+  },
+  {
+    "id": "v29049",
+    "length": 1,
+    "olang": "ru",
+    "popularity": 17.9266666666667,
+    "rating": 65.8,
+    "title": "PMKM/Pomogi Mne Kupit' Moloko!",
+    "votecount": 2689
+  },
+  {
+    "id": "v1719",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 17.7133333333333,
+    "rating": 72.2,
+    "title": "Gyakuten Kenji",
+    "votecount": 2657
+  },
+  {
+    "id": "v14265",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 17.5,
+    "rating": 80.6,
+    "title": "Hoshi Ori Yume Mirai",
+    "votecount": 2625
+  },
+  {
+    "id": "v70",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 17.14,
+    "rating": 75.5,
+    "title": "narcissu -SIDE 2nd-",
+    "votecount": 2571
+  },
+  {
+    "id": "v183",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 17.14,
+    "rating": 74.2,
+    "title": "Kikokugai - The Cyber Slayer",
+    "votecount": 2571
+  },
+  {
+    "id": "v10304",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 17.1066666666667,
+    "rating": 73.1,
+    "title": "Koi ga Saku Koro Sakura Doki",
+    "votecount": 2566
+  },
+  {
+    "id": "v18636",
+    "length": null,
+    "olang": "ja",
+    "popularity": 17.0333333333333,
+    "rating": 72.2,
+    "title": "Dorei to no Seikatsu -Teaching Feeling-",
+    "votecount": 2555
+  },
+  {
+    "id": "v36",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 16.9933333333333,
+    "rating": 77.7,
+    "title": "AIR",
+    "votecount": 2549
+  },
+  {
+    "id": "v1913",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 16.8866666666667,
+    "rating": 86.5,
+    "title": "BALDR SKY Dive2 \"RECORDARE\"",
+    "votecount": 2533
+  },
+  {
+    "id": "v9889",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 16.8,
+    "rating": 71.6,
+    "title": "Gyakuten Saiban 5",
+    "votecount": 2520
+  },
+  {
+    "id": "v4037",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 16.7533333333333,
+    "rating": 69.5,
+    "title": "Eroge! ~H mo Game mo Kaihatsu Zanmai~",
+    "votecount": 2513
+  },
+  {
+    "id": "v264",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 16.5733333333333,
+    "rating": 68.5,
+    "title": "D.C. ~Da Capo~",
+    "votecount": 2486
+  },
+  {
+    "id": "v5916",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 16.4133333333333,
+    "rating": 77.8,
+    "title": "DRAMAtical Murder",
+    "votecount": 2462
+  },
+  {
+    "id": "v22899",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 16.38,
+    "rating": 78.4,
+    "title": "Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka?",
+    "votecount": 2457
+  },
+  {
+    "id": "v19444",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 16.06,
+    "rating": 69.7,
+    "title": "Suki to Suki to de Sankaku Ren'ai",
+    "votecount": 2409
+  },
+  {
+    "id": "v20598",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 15.7733333333333,
+    "rating": 80.3,
+    "title": "Maji de Watashi ni Koishinasai! A-1",
+    "votecount": 2366
+  },
+  {
+    "id": "v7602",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 15.7066666666667,
+    "rating": 70.1,
+    "title": "Fate/EXTRA",
+    "votecount": 2356
+  },
+  {
+    "id": "v7803",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 15.6466666666667,
+    "rating": 72,
+    "title": "AMNESIA",
+    "votecount": 2347
+  },
+  {
+    "id": "v17909",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 15.6333333333333,
+    "rating": 88.4,
+    "title": "Tsukihime -A piece of blue glass moon-",
+    "votecount": 2345
+  },
+  {
+    "id": "v369",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 15.6266666666667,
+    "rating": 71.5,
+    "title": "Koihime \u2020 Musou ~Doki \u2605 Otome Darake no Sangokushi Engi~",
+    "votecount": 2344
+  },
+  {
+    "id": "v2368",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 15.2666666666667,
+    "rating": 75,
+    "title": "DEARDROPS",
+    "votecount": 2290
+  },
+  {
+    "id": "v38",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 15.1933333333333,
+    "rating": 81.3,
+    "title": "Symphonic Rain",
+    "votecount": 2279
+  },
+  {
+    "id": "v8038",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 15.1866666666667,
+    "rating": 71.6,
+    "title": "Bishoujo Mangekyou -Norowareshi Densetsu no Shoujo-",
+    "votecount": 2278
+  },
+  {
+    "id": "v18397",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 15.14,
+    "rating": 85.6,
+    "title": "Fata Morgana no Yakata -Another Episodes-",
+    "votecount": 2271
+  },
+  {
+    "id": "v27519",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.8266666666667,
+    "rating": 79,
+    "title": "doHna:doHna -Issho ni Warui Koto o Shiyou-",
+    "votecount": 2224
+  },
+  {
+    "id": "v903",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 14.82,
+    "rating": 71,
+    "title": "Edelweiss",
+    "votecount": 2223
+  },
+  {
+    "id": "v49",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 14.8133333333333,
+    "rating": 66.2,
+    "title": "Tsukihime PLUS-DISC",
+    "votecount": 2222
+  },
+  {
+    "id": "v25366",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.6666666666667,
+    "rating": 72.5,
+    "title": "Ren'ai, Karichaimashita",
+    "votecount": 2200
+  },
+  {
+    "id": "v13046",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 14.6333333333333,
+    "rating": 68.4,
+    "title": "Koisuru Natsu no Last Resort",
+    "votecount": 2195
+  },
+  {
+    "id": "v5295",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 14.58,
+    "rating": 65.6,
+    "title": "Imouto Paradise! ~Onii-chan to Gonin no Imouto no Ecchi Shimakuri na Mainichi~",
+    "votecount": 2187
+  },
+  {
+    "id": "v156",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 14.56,
+    "rating": 70.2,
+    "title": "PRINCESS WALTZ",
+    "votecount": 2184
+  },
+  {
+    "id": "v5000",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.3866666666667,
+    "rating": 78.4,
+    "title": "Root Double -Before Crime * After Days-",
+    "votecount": 2158
+  },
+  {
+    "id": "v562",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 14.3066666666667,
+    "rating": 87.3,
+    "title": "Sakura no Uta -Sakura no Mori no Ue o Mau-",
+    "votecount": 2146
+  },
+  {
+    "id": "v1896",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.26,
+    "rating": 74.4,
+    "title": "Co\u03bc - Kuroi Ryuu to Yasashii Oukoku -",
+    "votecount": 2139
+  },
+  {
+    "id": "v1377",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 14.1,
+    "rating": 80.6,
+    "title": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO",
+    "votecount": 2115
+  },
+  {
+    "id": "v6458",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.0733333333333,
+    "rating": 74.6,
+    "title": "Eiyuu * Senki",
+    "votecount": 2111
+  },
+  {
+    "id": "v430",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 14.0666666666667,
+    "rating": 72.3,
+    "title": "Hanachirasu",
+    "votecount": 2110
+  },
+  {
+    "id": "v917",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 14.0666666666667,
+    "rating": 65.2,
+    "title": "Sono Hanabira ni Kuchizuke o",
+    "votecount": 2110
+  },
+  {
+    "id": "v8158",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 14.06,
+    "rating": 79.3,
+    "title": "Daitoshokan no Hitsujikai",
+    "votecount": 2109
+  },
+  {
+    "id": "v20599",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 14.0533333333333,
+    "rating": 79.5,
+    "title": "Maji de Watashi ni Koishinasai! A-2",
+    "votecount": 2108
+  },
+  {
+    "id": "v1194",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 13.9466666666667,
+    "rating": 74.4,
+    "title": "Yosuga no Sora",
+    "votecount": 2092
+  },
+  {
+    "id": "v9",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 13.68,
+    "rating": 70.2,
+    "title": "Bible Black -La noche de walpurgis-",
+    "votecount": 2052
+  },
+  {
+    "id": "v84",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 13.5933333333333,
+    "rating": 75.6,
+    "title": "Sharin no Kuni, Yuukyuu no Shounenshoujo",
+    "votecount": 2039
+  },
+  {
+    "id": "v18498",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 13.4466666666667,
+    "rating": 77.5,
+    "title": "ISLAND",
+    "votecount": 2017
+  },
+  {
+    "id": "v231",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 13.1466666666667,
+    "rating": 74.5,
+    "title": "Zanmataisei Demonbane",
+    "votecount": 1972
+  },
+  {
+    "id": "v10526",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 13.1266666666667,
+    "rating": 71.8,
+    "title": "Phenomeno - Mitsurugi Yoishi wa Kowagaranai",
+    "votecount": 1969
+  },
+  {
+    "id": "v9879",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 13.06,
+    "rating": 76.9,
+    "title": "Tsujidou-san no Jun'ai Road",
+    "votecount": 1959
+  },
+  {
+    "id": "v26987",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 13.0333333333333,
+    "rating": 84.9,
+    "title": "Hakuchuumu no Aojashin",
+    "votecount": 1955
+  },
+  {
+    "id": "v2",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 13,
+    "rating": 74.1,
+    "title": "Kana ~Imouto~",
+    "votecount": 1950
+  },
+  {
+    "id": "v15473",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 12.9933333333333,
+    "rating": 77.1,
+    "title": "Nanairo Reincarnation",
+    "votecount": 1949
+  },
+  {
+    "id": "v2047",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 12.6733333333333,
+    "rating": 78.8,
+    "title": "Rance VI - Zeth Houkai -",
+    "votecount": 1901
+  },
+  {
+    "id": "v18970",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 12.66,
+    "rating": 60.9,
+    "title": "Rance 02 Kai - Hangyaku no Shoujo-tachi -",
+    "votecount": 1899
+  },
+  {
+    "id": "v266",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 12.5533333333333,
+    "rating": 76.1,
+    "title": "D.C. II ~Da Capo II~",
+    "votecount": 1883
+  },
+  {
+    "id": "v20228",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 12.4666666666667,
+    "rating": 77.3,
+    "title": "Ao no Kanata no Four Rhythm - EXTRA1",
+    "votecount": 1870
+  },
+  {
+    "id": "v9124",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 12.3466666666667,
+    "rating": 71.8,
+    "title": "Hatsukoi 1/1",
+    "votecount": 1852
+  },
+  {
+    "id": "v3947",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 12.1666666666667,
+    "rating": 75.1,
+    "title": "BUNNYBLACK",
+    "votecount": 1825
+  },
+  {
+    "id": "v10016",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 12.1333333333333,
+    "rating": 71.2,
+    "title": "Tokeijikake no Ley Line -Tasogaredoki no Kyoukaisen-",
+    "votecount": 1820
+  },
+  {
+    "id": "v31160",
+    "length": 1,
+    "olang": "ru",
+    "popularity": 12.0666666666667,
+    "rating": 71.6,
+    "title": "Milk outside a bag of milk outside a bag of milk",
+    "votecount": 1810
+  },
+  {
+    "id": "v17515",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 12.0533333333333,
+    "rating": 69.9,
+    "title": "Boku to Koi Suru Ponkotsu Akuma.",
+    "votecount": 1808
+  },
+  {
+    "id": "v103",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 12.0266666666667,
+    "rating": 75.8,
+    "title": "TRUE REMEMBRANCE",
+    "votecount": 1804
+  },
+  {
+    "id": "v15125",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 12.0266666666667,
+    "rating": 78.8,
+    "title": "Dai Gyakuten Saiban -Naruhodou Ryuunosuke no Bouken-",
+    "votecount": 1804
+  },
+  {
+    "id": "v71",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.8266666666667,
+    "rating": 69.8,
+    "title": "Yukizakura",
+    "votecount": 1774
+  },
+  {
+    "id": "v165",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 11.8066666666667,
+    "rating": 73.6,
+    "title": "MELTY BLOOD",
+    "votecount": 1771
+  },
+  {
+    "id": "v417",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.7533333333333,
+    "rating": 78.2,
+    "title": "Sekien no Inganock -What a Beautiful People-",
+    "votecount": 1763
+  },
+  {
+    "id": "v7836",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 11.7,
+    "rating": 72.8,
+    "title": "Hatoful Kareshi ~Kibou no Gakuen to Shiroi Tsubasa~",
+    "votecount": 1755
+  },
+  {
+    "id": "v10957",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.7,
+    "rating": 73.9,
+    "title": "Hapymaher",
+    "votecount": 1755
+  },
+  {
+    "id": "v6639",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.6533333333333,
+    "rating": 84.8,
+    "title": "Gyakuten Kenji 2",
+    "votecount": 1748
+  },
+  {
+    "id": "v29",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.6133333333333,
+    "rating": 73.7,
+    "title": "Crescendo ~Eien da to Omotte Ita Ano Koro~",
+    "votecount": 1742
+  },
+  {
+    "id": "v10608",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.5666666666667,
+    "rating": 67,
+    "title": "Koiken Otome",
+    "votecount": 1735
+  },
+  {
+    "id": "v18267",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.5666666666667,
+    "rating": 75.3,
+    "title": "Gyakuten Saiban 6",
+    "votecount": 1735
+  },
+  {
+    "id": "v2762",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.5533333333333,
+    "rating": 76,
+    "title": "Kyonyuu Fantasy",
+    "votecount": 1733
+  },
+  {
+    "id": "v29724",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 11.5133333333333,
+    "rating": 73.7,
+    "title": "9-nine- Shinshou",
+    "votecount": 1727
+  },
+  {
+    "id": "v3161",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.48,
+    "rating": 70.5,
+    "title": "STARLESS",
+    "votecount": 1722
+  },
+  {
+    "id": "v24717",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.4733333333333,
+    "rating": 80.9,
+    "title": "Kin'iro Loveriche -Golden Time-",
+    "votecount": 1721
+  },
+  {
+    "id": "v18131",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.46,
+    "rating": 76.6,
+    "title": "Maitetsu",
+    "votecount": 1719
+  },
+  {
+    "id": "v18852",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.32,
+    "rating": 78,
+    "title": "Amatsutsumi",
+    "votecount": 1698
+  },
+  {
+    "id": "v436",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 11.1133333333333,
+    "rating": 67.1,
+    "title": "Dra\u2020Koi",
+    "votecount": 1667
+  },
+  {
+    "id": "v5240",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 11.0933333333333,
+    "rating": 67.1,
+    "title": "Ikinari Anata ni Koishiteiru",
+    "votecount": 1664
+  },
+  {
+    "id": "v24320",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 11.0866666666667,
+    "rating": 73.9,
+    "title": "Sugar*Style",
+    "votecount": 1663
+  },
+  {
+    "id": "v26052",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 11.04,
+    "rating": 74.4,
+    "title": "Neko Para vol.4 ~Neko to Patissier no Noel~",
+    "votecount": 1656
+  },
+  {
+    "id": "v155",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.9666666666667,
+    "rating": 74.1,
+    "title": "Kazoku Keikaku",
+    "votecount": 1645
+  },
+  {
+    "id": "v5883",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.92,
+    "rating": 76.9,
+    "title": "ROBOTICS;NOTES",
+    "votecount": 1638
+  },
+  {
+    "id": "v24110",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.8733333333333,
+    "rating": 77.9,
+    "title": "Ryuusei World Actor",
+    "votecount": 1631
+  },
+  {
+    "id": "v21438",
+    "length": null,
+    "olang": "ja",
+    "popularity": 10.7133333333333,
+    "rating": 87.2,
+    "title": "Ao no Kanata no Four Rhythm - EXTRA2",
+    "votecount": 1607
+  },
+  {
+    "id": "v13631",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.64,
+    "rating": 75.2,
+    "title": "Hello Lady!",
+    "votecount": 1596
+  },
+  {
+    "id": "v16743",
+    "length": 2,
+    "olang": "ko",
+    "popularity": 10.56,
+    "rating": 73.2,
+    "title": "Lucy - Geunyeoga Baradeon Geot -",
+    "votecount": 1584
+  },
+  {
+    "id": "v238",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.5266666666667,
+    "rating": 70.1,
+    "title": "Tears to Tiara",
+    "votecount": 1579
+  },
+  {
+    "id": "v7316",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 10.5133333333333,
+    "rating": 62.3,
+    "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+    "votecount": 1577
+  },
+  {
+    "id": "v7576",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 10.4733333333333,
+    "rating": 73.3,
+    "title": "Higanbana no Saku Yoru ni - Dai Ichi Ya",
+    "votecount": 1571
+  },
+  {
+    "id": "v14267",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.4733333333333,
+    "rating": 74.6,
+    "title": "FLOWERS -Le volume sur printemps-",
+    "votecount": 1571
+  },
+  {
+    "id": "v46",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.3866666666667,
+    "rating": 67.4,
+    "title": "Sagara-sanchi no Etsuraku Life \u266a",
+    "votecount": 1558
+  },
+  {
+    "id": "v8900",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.3666666666667,
+    "rating": 74.5,
+    "title": "Princess Evangile W Happiness",
+    "votecount": 1555
+  },
+  {
+    "id": "v9680",
+    "length": 2,
+    "olang": "en",
+    "popularity": 10.3466666666667,
+    "rating": 71.2,
+    "title": "Analogue: A Hate Story",
+    "votecount": 1552
+  },
+  {
+    "id": "v16560",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.2933333333333,
+    "rating": 78.5,
+    "title": "Miagete Goran, Yozora no Hoshi o",
+    "votecount": 1544
+  },
+  {
+    "id": "v1299",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.2866666666667,
+    "rating": 83.7,
+    "title": "428 ~Fuusa Sareta Shibuya de~",
+    "votecount": 1543
+  },
+  {
+    "id": "v1660",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.2333333333333,
+    "rating": 68.9,
+    "title": "Shinigami no Kiss wa Wakare no Aji",
+    "votecount": 1535
+  },
+  {
+    "id": "v31469",
+    "length": null,
+    "olang": "ja",
+    "popularity": 10.1666666666667,
+    "rating": 72.6,
+    "title": "AI: Somnium Files - nirvanA Initiative",
+    "votecount": 1525
+  },
+  {
+    "id": "v2375",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 10.12,
+    "rating": 73.2,
+    "title": "Dengeki Stryker",
+    "votecount": 1518
+  },
+  {
+    "id": "v20330",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 10.12,
+    "rating": 73.5,
+    "title": "Newton to Ringo no Ki",
+    "votecount": 1518
+  },
+  {
+    "id": "v12694",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 10.0133333333333,
+    "rating": 72.1,
+    "title": "fault - milestone one",
+    "votecount": 1502
+  },
+  {
+    "id": "v16802",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 9.95333333333333,
+    "rating": 72.3,
+    "title": "Zombie no Afureta Sekai de Ore Dake ga Osowarenai",
+    "votecount": 1493
+  },
+  {
+    "id": "v248",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.90666666666667,
+    "rating": 67.3,
+    "title": "Never7 -the end of infinity-",
+    "votecount": 1486
+  },
+  {
+    "id": "v434",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.82666666666667,
+    "rating": 74.9,
+    "title": "Togainu no Chi",
+    "votecount": 1474
+  },
+  {
+    "id": "v19987",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 9.74666666666667,
+    "rating": 87.2,
+    "title": "Dai Gyakuten Saiban 2 -Naruhodou Ryuunosuke no Kakugo-",
+    "votecount": 1462
+  },
+  {
+    "id": "v7302",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 9.73333333333333,
+    "rating": 81,
+    "title": "Hatsuyuki Sakura",
+    "votecount": 1460
+  },
+  {
+    "id": "v8508",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.72,
+    "rating": 79.4,
+    "title": "Okujou no Yurirei-san",
+    "votecount": 1458
+  },
+  {
+    "id": "v69",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 9.7,
+    "rating": 75.7,
+    "title": "Higurashi no Naku Koro ni Rei",
+    "votecount": 1455
+  },
+  {
+    "id": "v7849",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.7,
+    "rating": 70.9,
+    "title": "Corpse Party: Book of Shadows",
+    "votecount": 1455
+  },
+  {
+    "id": "v29443",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 9.56666666666667,
+    "rating": 81.9,
+    "title": "Tsui no Stella",
+    "votecount": 1435
+  },
+  {
+    "id": "v1399",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.5,
+    "rating": 77.8,
+    "title": "sweet pool",
+    "votecount": 1425
+  },
+  {
+    "id": "v21956",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.39333333333333,
+    "rating": 69,
+    "title": "IxSHE Tell",
+    "votecount": 1409
+  },
+  {
+    "id": "v6985",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 9.35333333333333,
+    "rating": 79.5,
+    "title": "Rance Quest",
+    "votecount": 1403
+  },
+  {
+    "id": "v933",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 9.34,
+    "rating": 72.8,
+    "title": "Gore Screaming Show",
+    "votecount": 1401
+  },
+  {
+    "id": "v1894",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.28666666666667,
+    "rating": 66.8,
+    "title": "A profile",
+    "votecount": 1393
+  },
+  {
+    "id": "v74",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 9.26666666666667,
+    "rating": 76.3,
+    "title": "Eien no Aselia -The Spirit of Eternity Sword-",
+    "votecount": 1390
+  },
+  {
+    "id": "v18077",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 9.26,
+    "rating": 69.3,
+    "title": "Maggot baits",
+    "votecount": 1389
+  },
+  {
+    "id": "v299",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 9.24,
+    "rating": 74.9,
+    "title": "Daibanchou -Big Bang Age-",
+    "votecount": 1386
+  },
+  {
+    "id": "v17376",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 9.02666666666667,
+    "rating": 71.9,
+    "title": "Watashi ga Suki nara \"Suki\" tte Itte!",
+    "votecount": 1354
+  },
+  {
+    "id": "v40520",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.99333333333333,
+    "rating": 73.8,
+    "title": "Tenshi\u2606Souzou RE-BOOT!",
+    "votecount": 1349
+  },
+  {
+    "id": "v13774",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.93333333333333,
+    "rating": 78.7,
+    "title": "Angel Beats! -1st beat-",
+    "votecount": 1340
+  },
+  {
+    "id": "v18160",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.93333333333333,
+    "rating": 82.3,
+    "title": "Collar x Malice",
+    "votecount": 1340
+  },
+  {
+    "id": "v31055",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 8.93333333333333,
+    "rating": 86.3,
+    "title": "Hentai Prison",
+    "votecount": 1340
+  },
+  {
+    "id": "v114",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.92666666666667,
+    "rating": 66.9,
+    "title": "DISCIPLINE -The record of a Crusade-",
+    "votecount": 1339
+  },
+  {
+    "id": "v22020",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 8.92,
+    "rating": 68.3,
+    "title": "Neko Para Extra: Koneko no Hi no Yakusoku",
+    "votecount": 1338
+  },
+  {
+    "id": "v729",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.86,
+    "rating": 73,
+    "title": "11eyes -Tsumi to Batsu to Aganai no Shoujo-",
+    "votecount": 1329
+  },
+  {
+    "id": "v18974",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.85333333333333,
+    "rating": 63.1,
+    "title": "Karakara",
+    "votecount": 1328
+  },
+  {
+    "id": "v2046",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.82666666666667,
+    "rating": 58.1,
+    "title": "Rance 5D - Hitoribocchi no Onna no Ko -",
+    "votecount": 1324
+  },
+  {
+    "id": "v17642",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.80666666666667,
+    "rating": 83.8,
+    "title": "Rance 03 - Leazas Kanraku",
+    "votecount": 1321
+  },
+  {
+    "id": "v18149",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.78666666666667,
+    "rating": 74.3,
+    "title": "Otome * Domain",
+    "votecount": 1318
+  },
+  {
+    "id": "v28806",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.77333333333333,
+    "rating": 78.8,
+    "title": "Tsui no Sora Remake",
+    "votecount": 1316
+  },
+  {
+    "id": "v2093",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.74666666666667,
+    "rating": 69.3,
+    "title": "Edelweiss Eiden Fantasia",
+    "votecount": 1312
+  },
+  {
+    "id": "v16510",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.74,
+    "rating": 69.5,
+    "title": "Harmonia",
+    "votecount": 1311
+  },
+  {
+    "id": "v14887",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.71333333333333,
+    "rating": 73.4,
+    "title": "PRIMAL\u00d7HEARTS",
+    "votecount": 1307
+  },
+  {
+    "id": "v20600",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.66666666666667,
+    "rating": 78.3,
+    "title": "Maji de Watashi ni Koishinasai! A-3",
+    "votecount": 1300
+  },
+  {
+    "id": "v1715",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 8.65333333333333,
+    "rating": 79.4,
+    "title": "Hakuouki ~Shinsengumi Kitan~",
+    "votecount": 1298
+  },
+  {
+    "id": "v28633",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.49333333333333,
+    "rating": 69.2,
+    "title": "Ren'ai x Royale",
+    "votecount": 1274
+  },
+  {
+    "id": "v210",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.45333333333333,
+    "rating": 75.6,
+    "title": "Himawari",
+    "votecount": 1268
+  },
+  {
+    "id": "v10619",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.44666666666667,
+    "rating": 69.4,
+    "title": "Zettai Saikyou \u2606 Oppai Sensou!! ~Kyonyuu Oukoku vs Hinnyuu Oukoku~",
+    "votecount": 1267
+  },
+  {
+    "id": "v898",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.43333333333333,
+    "rating": 64.9,
+    "title": "Hinatabokko",
+    "votecount": 1265
+  },
+  {
+    "id": "v9986",
+    "length": 1,
+    "olang": "en",
+    "popularity": 8.34,
+    "rating": 70.4,
+    "title": "Juniper's Knot",
+    "votecount": 1251
+  },
+  {
+    "id": "v5834",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.28,
+    "rating": 81.1,
+    "title": "Irotoridori no Sekai",
+    "votecount": 1242
+  },
+  {
+    "id": "v29445",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.26666666666667,
+    "rating": 65.8,
+    "title": "LOOPERS",
+    "votecount": 1240
+  },
+  {
+    "id": "v925",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 8.24666666666667,
+    "rating": 71,
+    "title": "Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi",
+    "votecount": 1237
+  },
+  {
+    "id": "v23741",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.22666666666667,
+    "rating": 83.1,
+    "title": "Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? 2",
+    "votecount": 1234
+  },
+  {
+    "id": "v17742",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.21333333333333,
+    "rating": 68.3,
+    "title": "D.S. -Dal Segno-",
+    "votecount": 1232
+  },
+  {
+    "id": "v51",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.15333333333333,
+    "rating": 68.6,
+    "title": "ONE ~Kagayaku Kisetsu e~",
+    "votecount": 1223
+  },
+  {
+    "id": "v16221",
+    "length": 3,
+    "olang": "en",
+    "popularity": 8.13333333333333,
+    "rating": 62,
+    "title": "Sunrider Academy",
+    "votecount": 1220
+  },
+  {
+    "id": "v1155",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.12,
+    "rating": 73.9,
+    "title": "Kikouyoku Senki Tenkuu no Yumina",
+    "votecount": 1218
+  },
+  {
+    "id": "v6618",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 8.10666666666667,
+    "rating": 71.8,
+    "title": "STEINS;GATE Hiyoku Renri no Darling",
+    "votecount": 1216
+  },
+  {
+    "id": "v18261",
+    "length": 2,
+    "olang": "en",
+    "popularity": 8.1,
+    "rating": 55,
+    "title": "Sakura Swim Club",
+    "votecount": 1215
+  },
+  {
+    "id": "v13802",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 8.09333333333333,
+    "rating": 83.1,
+    "title": "Rance IX - Helman Kakumei -",
+    "votecount": 1214
+  },
+  {
+    "id": "v415",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 8.04666666666667,
+    "rating": 76.2,
+    "title": "Sekai de Ichiban Dame na Koi",
+    "votecount": 1207
+  },
+  {
+    "id": "v24770",
+    "length": null,
+    "olang": "ja",
+    "popularity": 7.99333333333333,
+    "rating": 77.6,
+    "title": "Ciconia no Naku Koro ni",
+    "votecount": 1199
+  },
+  {
+    "id": "v1552",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.98,
+    "rating": 76.9,
+    "title": "Mashiro-iro Symphony",
+    "votecount": 1197
+  },
+  {
+    "id": "v25931",
+    "length": null,
+    "olang": "ja",
+    "popularity": 7.96,
+    "rating": 82.1,
+    "title": "Kimi ga Shine -Tasuuketsu Death Game-",
+    "votecount": 1194
+  },
+  {
+    "id": "v31",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.91333333333333,
+    "rating": 55.6,
+    "title": "Gimai - Hitomi",
+    "votecount": 1187
+  },
+  {
+    "id": "v17915",
+    "length": 5,
+    "olang": "ko",
+    "popularity": 7.88,
+    "rating": 79.2,
+    "title": "Susanghan Messenger",
+    "votecount": 1182
+  },
+  {
+    "id": "v17012",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.87333333333333,
+    "rating": 84.5,
+    "title": "Kara no Shoujo - The Last Episode",
+    "votecount": 1181
+  },
+  {
+    "id": "v922",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.85333333333333,
+    "rating": 65.6,
+    "title": "Sono Hanabira ni Kuchizuke o: Watashi no Ouji-sama",
+    "votecount": 1178
+  },
+  {
+    "id": "v15251",
+    "length": 2,
+    "olang": "en",
+    "popularity": 7.85333333333333,
+    "rating": 50.9,
+    "title": "Sakura Spirit",
+    "votecount": 1178
+  },
+  {
+    "id": "v18694",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.81333333333333,
+    "rating": 71.5,
+    "title": "Onii-chan, Kiss no Junbi wa Mada Desu ka?",
+    "votecount": 1172
+  },
+  {
+    "id": "v13325",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.80666666666667,
+    "rating": 76,
+    "title": "Clover Day's",
+    "votecount": 1171
+  },
+  {
+    "id": "v18830",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 7.79333333333333,
+    "rating": 66.2,
+    "title": "Grisaia no Yuukan",
+    "votecount": 1169
+  },
+  {
+    "id": "v18148",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.76666666666667,
+    "rating": 75.7,
+    "title": "Nora to Oujo to Noraneko Heart",
+    "votecount": 1165
+  },
+  {
+    "id": "v629",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.76,
+    "rating": 73.9,
+    "title": "Akatsuki no Goei",
+    "votecount": 1164
+  },
+  {
+    "id": "v26902",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.68,
+    "rating": 76.3,
+    "title": "Marco to Ginga Ryuu",
+    "votecount": 1152
+  },
+  {
+    "id": "v241",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.66666666666667,
+    "rating": 69.5,
+    "title": "True Love ~Jun'ai Monogatari~",
+    "votecount": 1150
+  },
+  {
+    "id": "v1303",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.64,
+    "rating": 51.7,
+    "title": "Yandere",
+    "votecount": 1146
+  },
+  {
+    "id": "v14908",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.61333333333333,
+    "rating": 81,
+    "title": "Code: Realize ~Sousei no Himegimi~",
+    "votecount": 1142
+  },
+  {
+    "id": "v8832",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.58666666666667,
+    "rating": 74.7,
+    "title": "Higanbana no Saku Yoru ni - Dai Ni Ya",
+    "votecount": 1138
+  },
+  {
+    "id": "v17827",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.49333333333333,
+    "rating": 70.9,
+    "title": "Hitotsu Yane no, Tsubasa no Shita de",
+    "votecount": 1124
+  },
+  {
+    "id": "v18381",
+    "length": 2,
+    "olang": "en",
+    "popularity": 7.46666666666667,
+    "rating": 71,
+    "title": "Highway Blossoms",
+    "votecount": 1120
+  },
+  {
+    "id": "v37179",
+    "length": 3,
+    "olang": "en",
+    "popularity": 7.44,
+    "rating": 77.6,
+    "title": "Slay the Princess",
+    "votecount": 1116
+  },
+  {
+    "id": "v18778",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 7.4,
+    "rating": 82.1,
+    "title": "Gin'iro, Haruka",
+    "votecount": 1110
+  },
+  {
+    "id": "v646",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.37333333333333,
+    "rating": 76.1,
+    "title": "Ayakashibito",
+    "votecount": 1106
+  },
+  {
+    "id": "v4857",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.32,
+    "rating": 57.2,
+    "title": "Oppai Sensou - Kyonyuu VS Hinnyuu -",
+    "votecount": 1098
+  },
+  {
+    "id": "v29345",
+    "length": 2,
+    "olang": "en",
+    "popularity": 7.32,
+    "rating": 66.5,
+    "title": "Class of '09",
+    "votecount": 1098
+  },
+  {
+    "id": "v1414",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.3,
+    "rating": 54.5,
+    "title": "Rance - Hikari o Motomete -",
+    "votecount": 1095
+  },
+  {
+    "id": "v6438",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 7.28666666666667,
+    "rating": 74.9,
+    "title": "D.C. III ~Da Capo III~",
+    "votecount": 1093
+  },
+  {
+    "id": "v12033",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.28,
+    "rating": 76,
+    "title": "Eiyuu * Senki GOLD",
+    "votecount": 1092
+  },
+  {
+    "id": "v697",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.23333333333333,
+    "rating": 77.5,
+    "title": "Wish Room: Tenshi no Kioku",
+    "votecount": 1085
+  },
+  {
+    "id": "v2040",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.16666666666667,
+    "rating": 63,
+    "title": "Rance IV - Kyoudan no Isan -",
+    "votecount": 1075
+  },
+  {
+    "id": "v82",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 7.11333333333333,
+    "rating": 71.7,
+    "title": "Quartett!",
+    "votecount": 1067
+  },
+  {
+    "id": "v1027",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.11333333333333,
+    "rating": 75.2,
+    "title": "Shikkoku no Sharnoth ~What a beautiful tomorrow~",
+    "votecount": 1067
+  },
+  {
+    "id": "v1200",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.11333333333333,
+    "rating": 78.9,
+    "title": "Sayonara o Oshiete ~Comment te Dire Adieu~",
+    "votecount": 1067
+  },
+  {
+    "id": "v9678",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.06666666666667,
+    "rating": 81.5,
+    "title": "Rose Guns Days",
+    "votecount": 1060
+  },
+  {
+    "id": "v20",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 7.05333333333333,
+    "rating": 73.5,
+    "title": "ToHeart2",
+    "votecount": 1058
+  },
+  {
+    "id": "v174",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 7.01333333333333,
+    "rating": 68.7,
+    "title": "Canvas 2 ~Akaneiro no Palette~",
+    "votecount": 1052
+  },
+  {
+    "id": "v11093",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.96,
+    "rating": 79.5,
+    "title": "Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki-",
+    "votecount": 1044
+  },
+  {
+    "id": "v3720",
+    "length": 2,
+    "olang": "en",
+    "popularity": 6.84666666666667,
+    "rating": 66.9,
+    "title": "RE: Alistair",
+    "votecount": 1027
+  },
+  {
+    "id": "v22774",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.84666666666667,
+    "rating": 71.8,
+    "title": "Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.2",
+    "votecount": 1027
+  },
+  {
+    "id": "v19035",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 6.84,
+    "rating": 85.9,
+    "title": "Slow Damage",
+    "votecount": 1026
+  },
+  {
+    "id": "v21529",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.84,
+    "rating": 73.4,
+    "title": "Motto! Haramase! Honoo no Oppai Isekai Ero Mahou Gakuen!",
+    "votecount": 1026
+  },
+  {
+    "id": "v12559",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.82666666666667,
+    "rating": 68.5,
+    "title": "Magical Marriage Lunatics!!",
+    "votecount": 1024
+  },
+  {
+    "id": "v5316",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.8,
+    "rating": 70,
+    "title": "Hello,good-bye",
+    "votecount": 1020
+  },
+  {
+    "id": "v11920",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.79333333333333,
+    "rating": 70.3,
+    "title": "Imouto Paradise! 2 ~Onii-chan to Gonin no Imouto no Mo~tto! Ecchi Shimakuri na Mainichi~",
+    "votecount": 1019
+  },
+  {
+    "id": "v15395",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.76,
+    "rating": 83.3,
+    "title": "FLOWERS -Le volume sur \u00e9t\u00e9-",
+    "votecount": 1014
+  },
+  {
+    "id": "v8192",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.75333333333333,
+    "rating": 76.2,
+    "title": "BUNNYBLACK2",
+    "votecount": 1013
+  },
+  {
+    "id": "v15252",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.74666666666667,
+    "rating": 76.9,
+    "title": "fault - milestone two Jou",
+    "votecount": 1012
+  },
+  {
+    "id": "v3053",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.7,
+    "rating": 51.6,
+    "title": "Imouto Ijime",
+    "votecount": 1005
+  },
+  {
+    "id": "v20433",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.67333333333333,
+    "rating": 63.7,
+    "title": "Neko-nin exHeart",
+    "votecount": 1001
+  },
+  {
+    "id": "v11660",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.66666666666667,
+    "rating": 73.8,
+    "title": "STEINS;GATE: Senkei Kousoku no Phenogram",
+    "votecount": 1000
+  },
+  {
+    "id": "v731",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.64666666666667,
+    "rating": 64.8,
+    "title": "Taimanin Asagi",
+    "votecount": 997
+  },
+  {
+    "id": "v17863",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.64666666666667,
+    "rating": 65.9,
+    "title": "Iwaihime",
+    "votecount": 997
+  },
+  {
+    "id": "v20622",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.64,
+    "rating": 73.9,
+    "title": "Ouchi ni Kaeru made ga Mashimaro Desu",
+    "votecount": 996
+  },
+  {
+    "id": "v18760",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.62666666666667,
+    "rating": 72.7,
+    "title": "Sakura no Mori \u2020 Dreamers",
+    "votecount": 994
+  },
+  {
+    "id": "v7751",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 6.50666666666667,
+    "rating": 70.2,
+    "title": "Shiny Days",
+    "votecount": 976
+  },
+  {
+    "id": "v10680",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.48666666666667,
+    "rating": 79.5,
+    "title": "Tsuki ni Yorisou Otome no Sahou",
+    "votecount": 973
+  },
+  {
+    "id": "v20802",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 6.44,
+    "rating": 90.6,
+    "title": "Rance X -Kessen-",
+    "votecount": 966
+  },
+  {
+    "id": "v10895",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.39333333333333,
+    "rating": 77.5,
+    "title": "DRAMAtical Murder re:connect",
+    "votecount": 959
+  },
+  {
+    "id": "v1427",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.37333333333333,
+    "rating": 62.5,
+    "title": "Rance II - Hangyaku no Shoujo-tachi -",
+    "votecount": 956
+  },
+  {
+    "id": "v18344",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.37333333333333,
+    "rating": 68.5,
+    "title": "LAMUNATION!",
+    "votecount": 956
+  },
+  {
+    "id": "v20601",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.36,
+    "rating": 76.9,
+    "title": "Maji de Watashi ni Koishinasai! A-4",
+    "votecount": 954
+  },
+  {
+    "id": "v35",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.34666666666667,
+    "rating": 66.6,
+    "title": "Wind -a breath of heart-",
+    "votecount": 952
+  },
+  {
+    "id": "v21667",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.34666666666667,
+    "rating": 69.7,
+    "title": "Minikui Mojika no Ko",
+    "votecount": 952
+  },
+  {
+    "id": "v14112",
+    "length": 3,
+    "olang": "en",
+    "popularity": 6.32666666666667,
+    "rating": 69.3,
+    "title": "Sunrider: Mask of Arcadius",
+    "votecount": 949
+  },
+  {
+    "id": "v5381",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.28666666666667,
+    "rating": 71,
+    "title": "BLAZBLUE CALAMITY TRIGGER",
+    "votecount": 943
+  },
+  {
+    "id": "v8606",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 6.25333333333333,
+    "rating": 76.3,
+    "title": "Ochiru Hitozuma",
+    "votecount": 938
+  },
+  {
+    "id": "v13666",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.24,
+    "rating": 78.9,
+    "title": "Tokyo NECRO",
+    "votecount": 936
+  },
+  {
+    "id": "v119",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.20666666666667,
+    "rating": 65.8,
+    "title": "DIVI-DEAD",
+    "votecount": 931
+  },
+  {
+    "id": "v617",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.18,
+    "rating": 65.8,
+    "title": "Soul Link",
+    "votecount": 927
+  },
+  {
+    "id": "v16337",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.14666666666667,
+    "rating": 74.3,
+    "title": "Sorcery Jokers",
+    "votecount": 922
+  },
+  {
+    "id": "v17018",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.13333333333333,
+    "rating": 84.4,
+    "title": "Koshotengai no Hashihime",
+    "votecount": 920
+  },
+  {
+    "id": "v7184",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.06666666666667,
+    "rating": 74.3,
+    "title": "WORLD END ECONOMiCA",
+    "votecount": 910
+  },
+  {
+    "id": "v6849",
+    "length": 2,
+    "olang": "en",
+    "popularity": 6.06,
+    "rating": 62,
+    "title": "don't take it personally, babe, it just ain't your story",
+    "votecount": 909
+  },
+  {
+    "id": "v2045",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 6.04666666666667,
+    "rating": 82.9,
+    "title": "Kichikuou Rance",
+    "votecount": 907
+  },
+  {
+    "id": "v15119",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.01333333333333,
+    "rating": 73,
+    "title": "Layton Kyouju VS Gyakuten Saiban",
+    "votecount": 902
+  },
+  {
+    "id": "v195",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 6.00666666666667,
+    "rating": 70.1,
+    "title": "Otome wa Boku ni Koishiteru",
+    "votecount": 901
+  },
+  {
+    "id": "v22483",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.98,
+    "rating": 73.1,
+    "title": "Onee-chan no Yuuwaku",
+    "votecount": 897
+  },
+  {
+    "id": "v26765",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.98,
+    "rating": 71.6,
+    "title": "HaremKingdom",
+    "votecount": 897
+  },
+  {
+    "id": "v96",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.96666666666667,
+    "rating": 75.9,
+    "title": "I/O",
+    "votecount": 895
+  },
+  {
+    "id": "v16212",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.96,
+    "rating": 81.6,
+    "title": "Tokeijikake no Ley Line -Asagiri ni Chiru Hana-",
+    "votecount": 894
+  },
+  {
+    "id": "v961",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.94666666666667,
+    "rating": 63.6,
+    "title": "Goshujin-sama Da~isuki",
+    "votecount": 892
+  },
+  {
+    "id": "v24689",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.93333333333333,
+    "rating": 70.2,
+    "title": "Study \u00a7 Steady",
+    "votecount": 890
+  },
+  {
+    "id": "v26000",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.93333333333333,
+    "rating": 74.7,
+    "title": "Kimagure Temptation",
+    "votecount": 890
+  },
+  {
+    "id": "v26721",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.9,
+    "rating": 61.3,
+    "title": "SaDistic BlooD",
+    "votecount": 885
+  },
+  {
+    "id": "v4981",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.83333333333333,
+    "rating": 67.6,
+    "title": "Osananajimi wa Daitouryou: My girlfriend is the PRESIDENT. Fandisc",
+    "votecount": 875
+  },
+  {
+    "id": "v496",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.82666666666667,
+    "rating": 65.6,
+    "title": "Minna Daisuki Kozukuri Banchou",
+    "votecount": 874
+  },
+  {
+    "id": "v30726",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.8,
+    "rating": 73.7,
+    "title": "Ryuusei World Actor: Badge & Dagger",
+    "votecount": 870
+  },
+  {
+    "id": "v16493",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.77333333333333,
+    "rating": 80.2,
+    "title": "WHITE ALBUM2 Mini After Story",
+    "votecount": 866
+  },
+  {
+    "id": "v3896",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.76666666666667,
+    "rating": 74.2,
+    "title": "SISTERS ~Natsu no Saigo no Hi~",
+    "votecount": 865
+  },
+  {
+    "id": "v7747",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.76,
+    "rating": 70.6,
+    "title": "Taimanin Yukikaze",
+    "votecount": 864
+  },
+  {
+    "id": "v1541",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.75333333333333,
+    "rating": 59.9,
+    "title": "Furifure",
+    "votecount": 863
+  },
+  {
+    "id": "v10804",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.74666666666667,
+    "rating": 71.3,
+    "title": "Boku ga Tenshi ni Natta Wake",
+    "votecount": 862
+  },
+  {
+    "id": "v8424",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 5.74,
+    "rating": 78.9,
+    "title": "Soukoku no Arterial",
+    "votecount": 861
+  },
+  {
+    "id": "v2123",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.73333333333333,
+    "rating": 67,
+    "title": "KIRA\u2606KIRA CURTAIN CALL",
+    "votecount": 860
+  },
+  {
+    "id": "v19273",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.73333333333333,
+    "rating": 81.3,
+    "title": "SeaBed",
+    "votecount": 860
+  },
+  {
+    "id": "v19769",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.73333333333333,
+    "rating": 70.3,
+    "title": "Kamidanomi Shisugite Ore no Mirai ga Yabai.",
+    "votecount": 860
+  },
+  {
+    "id": "v16266",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.70666666666667,
+    "rating": 78,
+    "title": "Rondo Duo -Yoake no Fortissimo- Punyu Puri ff",
+    "votecount": 856
+  },
+  {
+    "id": "v34136",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.69333333333333,
+    "rating": 71.3,
+    "title": "Doukyuusei",
+    "votecount": 854
+  },
+  {
+    "id": "v6355",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.67333333333333,
+    "rating": 77.1,
+    "title": "Kyonyuu Fantasy Gaiden",
+    "votecount": 851
+  },
+  {
+    "id": "v18698",
+    "length": 1,
+    "olang": "en",
+    "popularity": 5.67333333333333,
+    "rating": 55.5,
+    "title": "Emily is Away",
+    "votecount": 851
+  },
+  {
+    "id": "v19912",
+    "length": 3,
+    "olang": "en",
+    "popularity": 5.67333333333333,
+    "rating": 76.7,
+    "title": "Cinderella Phenomenon",
+    "votecount": 851
+  },
+  {
+    "id": "v938",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.66,
+    "rating": 71.6,
+    "title": "Sono Hanabira ni Kuchizuke o: Anata o Suki na Shiawase",
+    "votecount": 849
+  },
+  {
+    "id": "v19843",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.66,
+    "rating": 74.9,
+    "title": "Fatal Twelve",
+    "votecount": 849
+  },
+  {
+    "id": "v158",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.65333333333333,
+    "rating": 57.7,
+    "title": "Ikazuchi no Senshi Raidy",
+    "votecount": 848
+  },
+  {
+    "id": "v1343",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.64666666666667,
+    "rating": 69.1,
+    "title": "Kangoku Senkan ~Hidou no Sennou Kaizou Koukai~",
+    "votecount": 847
+  },
+  {
+    "id": "v17287",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.64,
+    "rating": 76.1,
+    "title": "Hyakka Hyakurou Sengoku Ninpou-chou",
+    "votecount": 846
+  },
+  {
+    "id": "v17038",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.62,
+    "rating": 74.3,
+    "title": "PRIMAL\u00d7HEARTS2",
+    "votecount": 843
+  },
+  {
+    "id": "v19072",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 5.61333333333333,
+    "rating": 70.3,
+    "title": "Grisaia no Senritsu",
+    "votecount": 842
+  },
+  {
+    "id": "v20431",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 5.61333333333333,
+    "rating": 86.5,
+    "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
+    "votecount": 842
+  },
+  {
+    "id": "v154",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.60666666666667,
+    "rating": 61.6,
+    "title": "Seiai Gakuen Fechika",
+    "votecount": 841
+  },
+  {
+    "id": "v42561",
+    "length": null,
+    "olang": "ja",
+    "popularity": 5.58666666666667,
+    "rating": 75.9,
+    "title": "PARANORMASIGHT FILE23: Honjo Nanafushigi",
+    "votecount": 838
+  },
+  {
+    "id": "v19119",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.58,
+    "rating": 65.4,
+    "title": "Fate/EXTELLA",
+    "votecount": 837
+  },
+  {
+    "id": "v43",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.56,
+    "rating": 55.4,
+    "title": "Xchange",
+    "votecount": 834
+  },
+  {
+    "id": "v1829",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.54666666666667,
+    "rating": 65.4,
+    "title": "Rance III - Leazas Kanraku -",
+    "votecount": 832
+  },
+  {
+    "id": "v9205",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.54666666666667,
+    "rating": 74.2,
+    "title": "Tokyo Babel",
+    "votecount": 832
+  },
+  {
+    "id": "v14062",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.54666666666667,
+    "rating": 72,
+    "title": "Majo Koi Nikki",
+    "votecount": 832
+  },
+  {
+    "id": "v87",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.54,
+    "rating": 74.6,
+    "title": "FORTUNE ARTERIAL",
+    "votecount": 831
+  },
+  {
+    "id": "v18831",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 5.53333333333333,
+    "rating": 71.6,
+    "title": "Grisaia no Zankou",
+    "votecount": 830
+  },
+  {
+    "id": "v130",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.52,
+    "rating": 65,
+    "title": "Yin-Yang! X Change Alternative",
+    "votecount": 828
+  },
+  {
+    "id": "v16717",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.5,
+    "rating": 67.7,
+    "title": "Hitomebore",
+    "votecount": 825
+  },
+  {
+    "id": "v22783",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.49333333333333,
+    "rating": 80.1,
+    "title": "MUSICUS!",
+    "votecount": 824
+  },
+  {
+    "id": "v25197",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.45333333333333,
+    "rating": 78.2,
+    "title": "BUSTAFELLOWS",
+    "votecount": 818
+  },
+  {
+    "id": "v8527",
+    "length": 1,
+    "olang": "en",
+    "popularity": 5.42666666666667,
+    "rating": 58.9,
+    "title": "Sugar's Delight",
+    "votecount": 814
+  },
+  {
+    "id": "v28205",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.42,
+    "rating": 78.2,
+    "title": "Amaenbo ~Sei o Osaekirenai Boku to Mushou no Oyako~",
+    "votecount": 813
+  },
+  {
+    "id": "v105",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.34666666666667,
+    "rating": 60.3,
+    "title": "Killer Queen",
+    "votecount": 802
+  },
+  {
+    "id": "v23281",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.34,
+    "rating": 68.5,
+    "title": "Kemono Musume no Sodatekata",
+    "votecount": 801
+  },
+  {
+    "id": "v405",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.33333333333333,
+    "rating": 71.3,
+    "title": "Muv-Luv Altered Fable",
+    "votecount": 800
+  },
+  {
+    "id": "v11033",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.33333333333333,
+    "rating": 74.3,
+    "title": "Ourai no Gahkthun ~What a Shining Braves~",
+    "votecount": 800
+  },
+  {
+    "id": "v20032",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.33333333333333,
+    "rating": 80.9,
+    "title": "Silver Jiken",
+    "votecount": 800
+  },
+  {
+    "id": "v22775",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.33333333333333,
+    "rating": 69.9,
+    "title": "Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.3",
+    "votecount": 800
+  },
+  {
+    "id": "v45",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.32,
+    "rating": 79.2,
+    "title": "Phantom -PHANTOM OF INFERNO-",
+    "votecount": 798
+  },
+  {
+    "id": "v21903",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.32,
+    "rating": 66.4,
+    "title": "Koi ni, Kanmi o Soete",
+    "votecount": 798
+  },
+  {
+    "id": "v23742",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 5.32,
+    "rating": 73.9,
+    "title": "Evenicle 2",
+    "votecount": 798
+  },
+  {
+    "id": "v309",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.29333333333333,
+    "rating": 73.7,
+    "title": "DUEL SAVIOR",
+    "votecount": 794
+  },
+  {
+    "id": "v20194",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.27333333333333,
+    "rating": 69.1,
+    "title": "Grisaia: Phantom Trigger Vol. 1",
+    "votecount": 791
+  },
+  {
+    "id": "v31807",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.26666666666667,
+    "rating": 70.5,
+    "title": "PARQUET",
+    "votecount": 790
+  },
+  {
+    "id": "v18685",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.24666666666667,
+    "rating": 80,
+    "title": "Dies irae ~Interview with Kaziklu Bey~",
+    "votecount": 787
+  },
+  {
+    "id": "v22",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.24,
+    "rating": 73.7,
+    "title": "Katahane",
+    "votecount": 786
+  },
+  {
+    "id": "v7833",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.22666666666667,
+    "rating": 66.2,
+    "title": "OZMAFIA!!",
+    "votecount": 784
+  },
+  {
+    "id": "v136",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.22,
+    "rating": 60.6,
+    "title": "Heart de Roommate",
+    "votecount": 783
+  },
+  {
+    "id": "v21523",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.21333333333333,
+    "rating": 76.2,
+    "title": "Aoi Tori",
+    "votecount": 782
+  },
+  {
+    "id": "v20418",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 5.2,
+    "rating": 77.1,
+    "title": "Amayui Castle Meister",
+    "votecount": 780
+  },
+  {
+    "id": "v3319",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.14666666666667,
+    "rating": 73.4,
+    "title": "The Second Reproduction",
+    "votecount": 772
+  },
+  {
+    "id": "v21782",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 5.13333333333333,
+    "rating": 75.3,
+    "title": "Piofiore no Banshou",
+    "votecount": 770
+  },
+  {
+    "id": "v22603",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.13333333333333,
+    "rating": 73.7,
+    "title": "Mirai Radio to Jinkou-bato",
+    "votecount": 770
+  },
+  {
+    "id": "v10979",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.12666666666667,
+    "rating": 76.6,
+    "title": "Kono Oozora ni, Tsubasa o Hirogete: FLIGHT DIARY",
+    "votecount": 769
+  },
+  {
+    "id": "v22594",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5.12,
+    "rating": 74.5,
+    "title": "Making * Lovers: Geki Icha After Story",
+    "votecount": 768
+  },
+  {
+    "id": "v2959",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.11333333333333,
+    "rating": 76.2,
+    "title": "Hoshizora no Memoria -Eternal Heart-",
+    "votecount": 767
+  },
+  {
+    "id": "v15771",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 5.1,
+    "rating": 76.5,
+    "title": "Kokuchou no Psychedelica",
+    "votecount": 765
+  },
+  {
+    "id": "v870",
+    "length": 1,
+    "olang": "en",
+    "popularity": 5.02666666666667,
+    "rating": 54.5,
+    "title": "The Best Eroge Ever",
+    "votecount": 754
+  },
+  {
+    "id": "v18719",
+    "length": 1,
+    "olang": "en",
+    "popularity": 5.02666666666667,
+    "rating": 49,
+    "title": "Carpe Diem",
+    "votecount": 754
+  },
+  {
+    "id": "v926",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 5,
+    "rating": 67,
+    "title": "Sono Hanabira ni Kuchizuke o: Itoshisa no Photograph",
+    "votecount": 750
+  },
+  {
+    "id": "v157",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.99333333333333,
+    "rating": 61.9,
+    "title": "Binetsu Kyoushi Chieri",
+    "votecount": 749
+  },
+  {
+    "id": "v432",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.98666666666667,
+    "rating": 82.8,
+    "title": "Lamento -BEYOND THE VOID-",
+    "votecount": 748
+  },
+  {
+    "id": "v21458",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.98666666666667,
+    "rating": 66.9,
+    "title": "Momoiro Closet",
+    "votecount": 748
+  },
+  {
+    "id": "v117",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.98,
+    "rating": 68.1,
+    "title": "Brave Soul",
+    "votecount": 747
+  },
+  {
+    "id": "v12167",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.98,
+    "rating": 72.7,
+    "title": "Amairo * Islenauts",
+    "votecount": 747
+  },
+  {
+    "id": "v6357",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.97333333333333,
+    "rating": 76.7,
+    "title": "Sansha Mendan ~Rensa Suru Chijoku Choukyou no Gakuen~",
+    "votecount": 746
+  },
+  {
+    "id": "v700",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.96666666666667,
+    "rating": 76.6,
+    "title": "Ar tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~",
+    "votecount": 745
+  },
+  {
+    "id": "v6346",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.94,
+    "rating": 52.8,
+    "title": "Oyako Saiin Chiiku ~ Konna Ore ni Uzuite Modaero!",
+    "votecount": 741
+  },
+  {
+    "id": "v18152",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.93333333333333,
+    "rating": 83.1,
+    "title": "FLOWERS -Le volume sur automne-",
+    "votecount": 740
+  },
+  {
+    "id": "v22313",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 4.92666666666667,
+    "rating": 85.3,
+    "title": "Sakura, Moyu. -as the Night's, Reincarnation-",
+    "votecount": 739
+  },
+  {
+    "id": "v23067",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.92666666666667,
+    "rating": 67.9,
+    "title": "Loca Love - Dousei x Kouhai",
+    "votecount": 739
+  },
+  {
+    "id": "v38430",
+    "length": null,
+    "olang": "ja",
+    "popularity": 4.90666666666667,
+    "rating": 72.3,
+    "title": "GINKA",
+    "votecount": 736
+  },
+  {
+    "id": "v13948",
+    "length": 3,
+    "olang": "en",
+    "popularity": 4.9,
+    "rating": 70.7,
+    "title": "ACE Academy",
+    "votecount": 735
+  },
+  {
+    "id": "v14973",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.9,
+    "rating": 69.7,
+    "title": "Idol Mahou Shoujo Chiruchiru \u2606 Michiru",
+    "votecount": 735
+  },
+  {
+    "id": "v2021",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.89333333333333,
+    "rating": 68,
+    "title": "Starry\u2606Sky ~in Spring~",
+    "votecount": 734
+  },
+  {
+    "id": "v284",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.88666666666667,
+    "rating": 67.8,
+    "title": "Choukou Sennin Haruka",
+    "votecount": 733
+  },
+  {
+    "id": "v116",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.88,
+    "rating": 60.4,
+    "title": "Pururun Caf\u00e9",
+    "votecount": 732
+  },
+  {
+    "id": "v4111",
+    "length": 2,
+    "olang": "en",
+    "popularity": 4.88,
+    "rating": 69.1,
+    "title": "Digital: A Love Story",
+    "votecount": 732
+  },
+  {
+    "id": "v31002",
+    "length": null,
+    "olang": "ja",
+    "popularity": 4.86,
+    "rating": 71.2,
+    "title": "Ore no Cupid ga Ponkotsu Sugite Kowa~i.",
+    "votecount": 729
+  },
+  {
+    "id": "v20488",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.83333333333333,
+    "rating": 64.1,
+    "title": "Imouto ga Ji ni Natta no de Zayaku o Irete Yatta Ken",
+    "votecount": 725
+  },
+  {
+    "id": "v17516",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.82666666666667,
+    "rating": 75.2,
+    "title": "Koi x Shin Ai Kanojo",
+    "votecount": 724
+  },
+  {
+    "id": "v19192",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.82666666666667,
+    "rating": 72.2,
+    "title": "Room No.9",
+    "votecount": 724
+  },
+  {
+    "id": "v6688",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.81333333333333,
+    "rating": 64.3,
+    "title": "Ryoshuu Ichiba ~Wana ni Hamerareta Elf no Onna Shoukou~",
+    "votecount": 722
+  },
+  {
+    "id": "v599",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.80666666666667,
+    "rating": 74.7,
+    "title": "Forest",
+    "votecount": 721
+  },
+  {
+    "id": "v26837",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.80666666666667,
+    "rating": 72,
+    "title": "1room -Iede Shoujo-",
+    "votecount": 721
+  },
+  {
+    "id": "v11071",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.79333333333333,
+    "rating": 72.4,
+    "title": "Bishoujo Mangekyou -Wasurenagusa to Eien no Shoujo-",
+    "votecount": 719
+  },
+  {
+    "id": "v236",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.78666666666667,
+    "rating": 68.7,
+    "title": "WHITE ALBUM",
+    "votecount": 718
+  },
+  {
+    "id": "v669",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.78666666666667,
+    "rating": 59,
+    "title": "Harem\u2606Party",
+    "votecount": 718
+  },
+  {
+    "id": "v20602",
+    "length": null,
+    "olang": "ja",
+    "popularity": 4.78666666666667,
+    "rating": 81.7,
+    "title": "Maji de Watashi ni Koishinasai! A-5",
+    "votecount": 718
+  },
+  {
+    "id": "v16341",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 4.77333333333333,
+    "rating": 71.5,
+    "title": "Kami no Rhapsody",
+    "votecount": 716
+  },
+  {
+    "id": "v14365",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.76666666666667,
+    "rating": 76.5,
+    "title": "Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi-",
+    "votecount": 715
+  },
+  {
+    "id": "v6572",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.76,
+    "rating": 74.3,
+    "title": "BLAZBLUE CONTINUUM SHIFT",
+    "votecount": 714
+  },
+  {
+    "id": "v15940",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.75333333333333,
+    "rating": 63.2,
+    "title": "Shizuku no Oto",
+    "votecount": 713
+  },
+  {
+    "id": "v1560",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.73333333333333,
+    "rating": 68,
+    "title": "Mirai no Kimi to, Subete no Uta ni",
+    "votecount": 710
+  },
+  {
+    "id": "v15077",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.72666666666667,
+    "rating": 76.6,
+    "title": "Ano Harewataru Sora yori Takaku",
+    "votecount": 709
+  },
+  {
+    "id": "v4880",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.72,
+    "rating": 70.5,
+    "title": "Ushinawareta Mirai o Motomete",
+    "votecount": 708
+  },
+  {
+    "id": "v10326",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.72,
+    "rating": 67.3,
+    "title": "Tenioha! ~Onna no Ko Datte Honto wa Ecchi da yo?~",
+    "votecount": 708
+  },
+  {
+    "id": "v16032",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.71333333333333,
+    "rating": 82.9,
+    "title": "Taishou x Alice",
+    "votecount": 707
+  },
+  {
+    "id": "v30294",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.68666666666667,
+    "rating": 75.7,
+    "title": "Moto Yankee Tsuma: Hinako ~Shinshin Tomo ni Kanzen Netori!~",
+    "votecount": 703
+  },
+  {
+    "id": "v2043",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.68,
+    "rating": 53.3,
+    "title": "Rance 4.1 ~Okusuri Koujou o Sukue!~",
+    "votecount": 702
+  },
+  {
+    "id": "v20027",
+    "length": 2,
+    "olang": "en",
+    "popularity": 4.66666666666667,
+    "rating": 67.1,
+    "title": "Love Ribbon",
+    "votecount": 700
+  },
+  {
+    "id": "v2511",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.64666666666667,
+    "rating": 68.7,
+    "title": "Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite",
+    "votecount": 697
+  },
+  {
+    "id": "v53",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 4.63333333333333,
+    "rating": 57.9,
+    "title": "Otoko Dogeza Jigoku",
+    "votecount": 695
+  },
+  {
+    "id": "v4041",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.63333333333333,
+    "rating": 75.3,
+    "title": "Walkure Romanze ~Shoujo Kishi Monogatari~",
+    "votecount": 695
+  },
+  {
+    "id": "v30118",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.63333333333333,
+    "rating": 73.2,
+    "title": "Himukai Chihiro wa Shigoto ga Tsuzukanai",
+    "votecount": 695
+  },
+  {
+    "id": "v12369",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.62666666666667,
+    "rating": 82.2,
+    "title": "Fate/EXTRA CCC",
+    "votecount": 694
+  },
+  {
+    "id": "v8928",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.60666666666667,
+    "rating": 56.6,
+    "title": "Okasare Yuusha ~Ririshiku Sekai o Sukuu Hazu Datta Boku...~",
+    "votecount": 691
+  },
+  {
+    "id": "v21281",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.6,
+    "rating": 60.2,
+    "title": "ROBOTICS;NOTES DaSH",
+    "votecount": 690
+  },
+  {
+    "id": "v979",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.59333333333333,
+    "rating": 65.7,
+    "title": "Harukoi * Otome ~Otome no Sono de Gokigen'you.~",
+    "votecount": 689
+  },
+  {
+    "id": "v15064",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.57333333333333,
+    "rating": 69.3,
+    "title": "Yuki Koi Melt",
+    "votecount": 686
+  },
+  {
+    "id": "v29383",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.57333333333333,
+    "rating": 81.7,
+    "title": "Meikei no Lupercalia",
+    "votecount": 686
+  },
+  {
+    "id": "v1",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.56666666666667,
+    "rating": 57.9,
+    "title": "Minna de Nyan Nyan",
+    "votecount": 685
+  },
+  {
+    "id": "v21676",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.56,
+    "rating": 67.2,
+    "title": "LOVE\u00b3 -Love Cube-",
+    "votecount": 684
+  },
+  {
+    "id": "v9047",
+    "length": 1,
+    "olang": "ja",
+    "popularity": 4.54666666666667,
+    "rating": 66.3,
+    "title": "Umineko no Naku Koro ni Hane",
+    "votecount": 682
+  },
+  {
+    "id": "v575",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.52,
+    "rating": 72.6,
+    "title": "Shoujo Mahou Gaku: Little Witch Romanesque",
+    "votecount": 678
+  },
+  {
+    "id": "v19182",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.50666666666667,
+    "rating": 75.7,
+    "title": "Bishoujo Mangekyou -Tsumi to Batsu no Shoujo-",
+    "votecount": 676
+  },
+  {
+    "id": "v18690",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.49333333333333,
+    "rating": 66.5,
+    "title": "Bocchi Musume x Produce Keikaku.",
+    "votecount": 674
+  },
+  {
+    "id": "v16535",
+    "length": 2,
+    "olang": "en",
+    "popularity": 4.48666666666667,
+    "rating": 53.5,
+    "title": "Sakura Angels",
+    "votecount": 673
+  },
+  {
+    "id": "v16150",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.48,
+    "rating": 64.1,
+    "title": "Kanojo no Seiiki",
+    "votecount": 672
+  },
+  {
+    "id": "v11179",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.47333333333333,
+    "rating": 73.4,
+    "title": "Norn9 ~Norn + Nonette~",
+    "votecount": 671
+  },
+  {
+    "id": "v54897",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 4.47333333333333,
+    "rating": 79.1,
+    "title": "HUNDRED LINE -Saishuu Bouei Gakuen-",
+    "votecount": 671
+  },
+  {
+    "id": "v2044",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.46666666666667,
+    "rating": 53.5,
+    "title": "Rance 4.2 ~Angelgumi~",
+    "votecount": 670
+  },
+  {
+    "id": "v8322",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.46,
+    "rating": 64.9,
+    "title": "Furifure 2",
+    "votecount": 669
+  },
+  {
+    "id": "v17101",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.45333333333333,
+    "rating": 74.9,
+    "title": "ANONYMOUS;CODE",
+    "votecount": 668
+  },
+  {
+    "id": "v18644",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.45333333333333,
+    "rating": 58.8,
+    "title": "\u221aLetter -Root Letter-",
+    "votecount": 668
+  },
+  {
+    "id": "v18791",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.45333333333333,
+    "rating": 71.7,
+    "title": "Boku to Koi Suru Ponkotsu Akuma. Suggoi Ecchi!",
+    "votecount": 668
+  },
+  {
+    "id": "v24241",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.45333333333333,
+    "rating": 78.5,
+    "title": "Olympia Soiree",
+    "votecount": 668
+  },
+  {
+    "id": "v29300",
+    "length": null,
+    "olang": "ja",
+    "popularity": 4.45333333333333,
+    "rating": 73.4,
+    "title": "Mahou Shoujo Shoumou Sensen - Dead\u03a9Aegis",
+    "votecount": 668
+  },
+  {
+    "id": "v2748",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.42666666666667,
+    "rating": 67.5,
+    "title": "Maman Kyoushitsu ~Mirai no H na Obenkyou~",
+    "votecount": 664
+  },
+  {
+    "id": "v1435",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.42,
+    "rating": 66.4,
+    "title": "Taimanin Asagi 2",
+    "votecount": 663
+  },
+  {
+    "id": "v20148",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.42,
+    "rating": 71.6,
+    "title": "Ninki Seiyuu no Tsukurikata",
+    "votecount": 663
+  },
+  {
+    "id": "v133",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.40666666666667,
+    "rating": 58.9,
+    "title": "Ecchi na Bunny-san wa Kirai?",
+    "votecount": 661
+  },
+  {
+    "id": "v12260",
+    "length": 5,
+    "olang": "ja",
+    "popularity": 4.38666666666667,
+    "rating": 82,
+    "title": "ChuSinGura 46+1",
+    "votecount": 658
+  },
+  {
+    "id": "v15892",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.38666666666667,
+    "rating": 73.4,
+    "title": "Hello Lady! -New Division-",
+    "votecount": 658
+  },
+  {
+    "id": "v21976",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.38666666666667,
+    "rating": 73.3,
+    "title": "Shiin",
+    "votecount": 658
+  },
+  {
+    "id": "v1467",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.37333333333333,
+    "rating": 67.5,
+    "title": "Time Hollow ~Ubawareta Kako o Motomete~",
+    "votecount": 656
+  },
+  {
+    "id": "v470",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.36666666666667,
+    "rating": 78.8,
+    "title": "Biniku no Kaori ~Netori Netorare Yari Yarare~",
+    "votecount": 655
+  },
+  {
+    "id": "v710",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.35333333333333,
+    "rating": 77.3,
+    "title": "Aoishiro",
+    "votecount": 653
+  },
+  {
+    "id": "v13871",
+    "length": 3,
+    "olang": "de",
+    "popularity": 4.35333333333333,
+    "rating": 79.5,
+    "title": "Bernd und das R\u00e4tsel um Unteralterbach",
+    "votecount": 653
+  },
+  {
+    "id": "v118",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.32,
+    "rating": 59,
+    "title": "Watashi ni Kon'ya\u2606Ai ni Kite",
+    "votecount": 648
+  },
+  {
+    "id": "v3031",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.32,
+    "rating": 66.3,
+    "title": "Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu",
+    "votecount": 648
+  },
+  {
+    "id": "v153",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.31333333333333,
+    "rating": 57.1,
+    "title": "Koneko Doumei",
+    "votecount": 647
+  },
+  {
+    "id": "v5549",
+    "length": 4,
+    "olang": "ja",
+    "popularity": 4.31333333333333,
+    "rating": 71.2,
+    "title": "Onigokko!",
+    "votecount": 647
+  },
+  {
+    "id": "v10792",
+    "length": 3,
+    "olang": "ko",
+    "popularity": 4.30666666666667,
+    "rating": 70.1,
+    "title": "Dandelion ~Neoege Buneun Baram~",
+    "votecount": 646
+  },
+  {
+    "id": "v17008",
+    "length": 2,
+    "olang": "en",
+    "popularity": 4.30666666666667,
+    "rating": 58.8,
+    "title": "Sakura Fantasy",
+    "votecount": 646
+  },
+  {
+    "id": "v4060",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.3,
+    "rating": 69.2,
+    "title": "CLANNAD - Hikari Mimamoru Sakamichi de",
+    "votecount": 645
+  },
+  {
+    "id": "v101",
+    "length": 2,
+    "olang": "ja",
+    "popularity": 4.29333333333333,
+    "rating": 58.2,
+    "title": "Shukketsubo ~Senseki no Oetsu~",
+    "votecount": 644
+  },
+  {
+    "id": "v167",
+    "length": 3,
+    "olang": "ja",
+    "popularity": 4.29333333333333,
+    "rating": 66.8,
+    "title": "Brass Restoration",
+    "votecount": 644
+  }
+]
